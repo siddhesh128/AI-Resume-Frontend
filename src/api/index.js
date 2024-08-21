@@ -9,7 +9,7 @@ export const backendBaseURL =
     : process.env.REACT_APP_BACKEND_BASE_URL_LOCAL;
 
     //yaha change krna padega localhost pr run krne ke liyee !
-const instance = axios.create({ baseURL: "http://localhost:3030" });
+const instance = axios.create({ baseURL: "https://ai-resume-backend-y8ka.onrender.com" });
 
 // Add an interceptor for authorization headers
 instance.interceptors.request.use((config) => {
