@@ -41,7 +41,7 @@ const ResumeCard = ({ resume }) => {
   };
   const getURLToCopy = (resumeId) => {
     const { REACT_APP_ENV, REACT_APP_FRONTEND_BASE_URL_LOCAL, REACT_APP_FRONTEND_BASE_URL_PROD } = process.env;
-    const baseURL = REACT_APP_ENV === "LOCAL" ? REACT_APP_FRONTEND_BASE_URL_LOCAL : REACT_APP_FRONTEND_BASE_URL_PROD;
+    const baseURL ="https://ai-resume-frontend-eight.vercel.app";
     const urlToCopy = `${baseURL}/resume/share/${resumeId}`;
     return urlToCopy;
   };
