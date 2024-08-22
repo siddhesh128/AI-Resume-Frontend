@@ -2,7 +2,7 @@
 
 **An AI-powered resume builder application that enhances and tailors resumes using advanced natural language processing techniques.**
 
-![AI Resume Builder]([[https://your-image-url.com/banner.png](https://res.cloudinary.com/dxsifnzgq/image/upload/v1724307063/resume_ofmeuh.jpg)](https://res.cloudinary.com/dxsifnzgq/image/upload/e_improve,w_300,h_600,c_thumb,g_auto/v1724307063/resume_ofmeuh.jpg)) 
+![AI Resume Builder](https://res.cloudinary.com/dxsifnzgq/image/upload/v1724307063/resume_ofmeuh.jpg)
 
 ## 🚀 Features
 
